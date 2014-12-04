@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1275979328 source:n:\pro\main.cpp
+	<allegro.h>
+	"GameSystem.h"
+	"Creature.h"
+	"Prey.h"
+	"Preys.h"
+	"Predator.h"
+	"Predators.h"
+
+1275979570 n:\pro\gamesystem.h
+	<iostream>
+
+1275979324 n:\pro\creature.h
+	<math.h>
+
+1275979328 n:\pro\prey.h
+
+1275979328 n:\pro\preys.h
+
+1275979326 n:\pro\predator.h
+
+1275979326 n:\pro\predators.h
+
+1275979328 source:h:\project el 7aitsalem !\main.cpp
+	<allegro.h>
+	"GameSystem.h"
+	"Creature.h"
+	"Prey.h"
+	"Preys.h"
+	"Predator.h"
+	"Predators.h"
+
+1275982360 h:\project el 7aitsalem !\gamesystem.h
+	<iostream>
+
+1275981397 h:\project el 7aitsalem !\creature.h
+	<math.h>
+
+1275979328 h:\project el 7aitsalem !\prey.h
+
+1275981433 h:\project el 7aitsalem !\preys.h
+
+1275979326 h:\project el 7aitsalem !\predator.h
+
+1275981397 h:\project el 7aitsalem !\predators.h
+
+1275975728 source:h:\my work\prog project\project el 7aitsalem !\main.cpp
+	<allegro.h>
+	"GameSystem.h"
+	"Creature.h"
+	"Prey.h"
+	"Preys.h"
+	"Predator.h"
+	"Predators.h"
+
+1275978760 h:\my work\prog project\project el 7aitsalem !\gamesystem.h
+	<iostream>
+
+1275977797 h:\my work\prog project\project el 7aitsalem !\creature.h
+	<math.h>
+
+1275975728 h:\my work\prog project\project el 7aitsalem !\prey.h
+
+1275977833 h:\my work\prog project\project el 7aitsalem !\preys.h
+
+1275975726 h:\my work\prog project\project el 7aitsalem !\predator.h
+
+1275977797 h:\my work\prog project\project el 7aitsalem !\predators.h
+

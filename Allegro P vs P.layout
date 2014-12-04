@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Creature.h" open="1" top="1" tabpos="3">
+		<Cursor position="3065" topLine="51" />
+	</File>
+	<File name="GameSystem.h" open="1" top="0" tabpos="2">
+		<Cursor position="3189" topLine="140" />
+	</File>
+	<File name="Predator.h" open="1" top="0" tabpos="6">
+		<Cursor position="606" topLine="37" />
+	</File>
+	<File name="Predators.h" open="1" top="0" tabpos="7">
+		<Cursor position="7591" topLine="119" />
+	</File>
+	<File name="Prey.h" open="1" top="0" tabpos="4">
+		<Cursor position="48" topLine="0" />
+	</File>
+	<File name="Preys.h" open="1" top="0" tabpos="5">
+		<Cursor position="105" topLine="381" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="576" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
